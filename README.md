@@ -1,10 +1,13 @@
-⚙️ ## Predictive Asset Health: RUL Prediction with Machine Learning
-📄 Project Overview
+# ⚙️ Predictive Asset Health: RUL Prediction with Machine Learning
+
+## 📄 Project Overview
+
 This project focuses on predicting the Remaining Useful Life (RUL) of engines using the CMAPSS dataset and machine learning models. Predictive maintenance ensures optimal asset utilization and minimizes operational downtime by forecasting the time until a component needs replacement or repair.
 
 The repository demonstrates the complete lifecycle of a predictive analytics project, including data preprocessing, feature engineering, model training, evaluation, and interpretability.
 
-📂 Description
+## 📂 Description
+
 The dataset used is the NASA CMAPSS dataset, which contains multi-variate time-series sensor data for engines undergoing degradation. Each engine runs until failure, providing a rich dataset for RUL prediction. This project leverages an XGBoost regression model optimized with grid search and highlights feature contributions using SHAP analysis.
 
 Context and Use-case
@@ -15,7 +18,9 @@ Key dataset attributes:
 Sensors: Time-series data from various sensors.
 Cycles: Represents the operational age of the engine.
 Engine ID: Identifies unique engines in the dataset.
-📊 Key Features
+
+## 📊 Key Features
+
 Machine Learning Model: An XGBoost regressor, optimized for robust performance.
 Hyperparameter Tuning: GridSearchCV for optimal parameter selection.
 Feature Importance: SHAP values to identify critical sensor features.
@@ -27,7 +32,9 @@ R² Score
 Visualizations:
 SHAP feature importance plot
 Predicted vs. Actual RUL scatter plot
-🛠️ Tools & Technologies
+
+## 🛠️ Tools & Technologies
+
 Programming Language: Python
 Libraries:
 XGBoost: Model development
@@ -36,15 +43,10 @@ Pandas, NumPy: Data manipulation
 Matplotlib, Seaborn: Data visualization
 Scikit-learn: Metrics and preprocessing
 Development Environment: Jupyter Notebook
-📈 Results
-Model Performance
-Validation Set:
 
-MSE: 125.66
-RMSE: 11.21
-MAE: 7.71
-R² Score: 0.92
-Test Set:
+## 📈 Results
+
+Model Performance
 
 MSE: 240.83
 RMSE: 15.52
@@ -53,19 +55,16 @@ R² Score: 0.86
 Feature Importance
 SHAP analysis identified the most significant features for predicting RUL, including specific sensor readings and the engine cycle variable.
 
-📂 Repository Structure
-data/: Contains the CMAPSS dataset.
-models/: Saved XGBoost model.
-notebooks/: Jupyter notebooks for analysis and model training.
-requirements.txt: Lists Python dependencies.
-🚀 Future Work
+## 📂 Repository Structure
+
+Data/: Contains the CMAPSS dataset.
+Models/: Saved XGBoost model.
+Notebooks/: Jupyter notebooks for analysis and model training.
+Requirements.txt: Lists Python dependencies.
+
+## 🚀 Future Work
+
 Explore deep learning models like LSTMs for advanced time-series modeling.
 Investigate real-time data processing and prediction systems.
 Expand interpretability with comparative analysis of features across multiple engines.
-⚖️ License
-This project is open-source and licensed under the MIT License.
 
-🙌 Acknowledgments
-NASA for the CMAPSS dataset.
-Developers and contributors to the SHAP library.
-For further questions or suggestions, feel free to create an issue or reach out!
