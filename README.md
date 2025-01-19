@@ -57,7 +57,9 @@ Engine ID: Identifies unique engines in the dataset.
 
 ## 🚀 Future Work
 
-Explore deep learning models like LSTMs for advanced time-series modeling.
-Investigate real-time data processing and prediction systems.
-Expand interpretability with comparative analysis of features across multiple engines.
+- Although it can be computionally expensive, deep learning models like LSTMs can be explored with higher number of time-steps for capturing long-term dependencies in the data. In this project an implemention of LSTM has been covered with timestep = 1 for simplicity yielding a model which underperforms.
+  
+- Real-time data processing and prediction systems can be investigated with extended visualization of the KPIs through a web app for real time usage.
+  
+- Expand interpretability with comparative analysis of features across multiple engines.
 
