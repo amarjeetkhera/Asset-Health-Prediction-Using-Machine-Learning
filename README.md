@@ -38,14 +38,13 @@ Engine ID: Identifies unique engines in the dataset.
 
 ## 📈 Results
 
-Model Performance
+- MSE: 240.83
+  
+- RMSE: 15.52
 
-MSE: 240.83
-RMSE: 15.52
-MAE: 11.72
-R² Score: 0.86
-Feature Importance
-SHAP analysis identified the most significant features for predicting RUL, including specific sensor readings and the engine cycle variable.
+- MAE: 11.72
+  
+- R² Score: 0.86
 
 ## 📂 Repository Structure
 
