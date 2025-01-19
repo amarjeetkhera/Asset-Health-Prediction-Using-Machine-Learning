@@ -15,7 +15,9 @@ The dataset used is the NASA CMAPSS dataset contains multi-variate time-series s
 Key dataset attributes:
 
 Sensors: Time-series data from various sensors.
+
 Cycles: Represents the operational age of the engine.
+
 Engine ID: Identifies unique engines in the dataset.
 
 ## 📊 Key Features
