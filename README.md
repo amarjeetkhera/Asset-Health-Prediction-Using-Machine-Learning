@@ -21,10 +21,10 @@ Engine ID: Identifies unique engines in the dataset.
 
 ## 📊 Key Features
 
-- _Machine Learning Model: An XGBoost regressor, optimized for robust performance.
-- _Hyperparameter Tuning: GridSearchCV for optimal parameter selection.
-- _Feature Importance: SHAP values to identify critical sensor features.
-- _Performance Metrics:
+- _ Machine Learning Model: An XGBoost regressor, optimized for robust performance.
+- _ Hyperparameter Tuning: GridSearchCV for optimal parameter selection.
+- _ Feature Importance: SHAP values to identify critical sensor features.
+- _ Performance Metrics:
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 Mean Absolute Error (MAE)
