@@ -48,10 +48,13 @@ Engine ID: Identifies unique engines in the dataset.
 
 ## 📂 Repository Structure
 
-Data/: Contains the CMAPSS dataset.
-Models/: Saved XGBoost model.
-Notebooks/: Jupyter notebooks for analysis and model training.
-Requirements.txt: Lists Python dependencies.
+- Data/: Contains the CMAPSS dataset.
+  
+- Models/: Saved XGBoost model.
+
+- Notebooks/: Jupyter notebooks for analysis and model training.
+
+- Requirements.txt: Lists Python dependencies.
 
 ## 🚀 Future Work
 
