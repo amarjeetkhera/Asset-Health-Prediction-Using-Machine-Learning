@@ -32,14 +32,9 @@ Engine ID: Identifies unique engines in the dataset.
 
 ## 🛠️ Tools & Technologies
 
-Programming Language: Python
-Libraries:
-XGBoost: Model development
-SHAP: Feature interpretability
-Pandas, NumPy: Data manipulation
-Matplotlib, Seaborn: Data visualization
-Scikit-learn: Metrics and preprocessing
-Development Environment: Jupyter Notebook
+- Programming Language: Python
+  
+- Development Environment: Jupyter Notebook
 
 ## 📈 Results
 
