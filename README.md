@@ -54,8 +54,6 @@ Engine ID: Identifies unique engines in the dataset.
 
 - Notebooks/: Jupyter notebooks for analysis and model training.
 
-- Requirements.txt: Lists Python dependencies.
-
 ## 🚀 Future Work
 
 Explore deep learning models like LSTMs for advanced time-series modeling.
