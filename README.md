@@ -1,4 +1,4 @@
-# ⚙️ Asset Health Prediction using Machine Learning
+# ⚙️ Asset Health Prediction Using Machine Learning
 
 ## 📄 Project Overview
 
