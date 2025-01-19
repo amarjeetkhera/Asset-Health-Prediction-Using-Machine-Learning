@@ -25,13 +25,10 @@ Engine ID: Identifies unique engines in the dataset.
 - Hyperparameter Tuning: GridSearchCV for optimal parameter selection.
 - Feature Importance: SHAP values to identify critical sensor features.
 - Performance Metrics:
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-Mean Absolute Error (MAE)
-R² Score
-Visualizations:
-SHAP feature importance plot
-Predicted vs. Actual RUL scatter plot
+    - Mean Squared Error (MSE)
+    - Root Mean Squared Error (RMSE)
+    - Mean Absolute Error (MAE)
+    - R² Score
 
 ## 🛠️ Tools & Technologies
 
