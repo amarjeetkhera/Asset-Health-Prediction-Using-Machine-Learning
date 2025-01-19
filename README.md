@@ -1,4 +1,4 @@
-# ⚙️ Predictive Asset Health: RUL Prediction with Machine Learning
+# ⚙️ Asset Health Prediction using Machine Learning
 
 ## 📄 Project Overview
 
@@ -8,10 +8,9 @@ The repository demonstrates the complete lifecycle of a predictive analytics pro
 
 ## 📂 Description
 
-The dataset used is the NASA CMAPSS dataset, which contains multi-variate time-series sensor data for engines undergoing degradation. Each engine runs until failure, providing a rich dataset for RUL prediction. This project leverages an XGBoost regression model optimized with grid search and highlights feature contributions using SHAP analysis.
-
-Context and Use-case
 Machine learning offers a solution for dynamic maintenance planning in industrial environments by accurately predicting RUL. Engineers can use these predictions to schedule timely interventions, reducing costs and avoiding unexpected failures.
+The dataset used is the NASA CMAPSS dataset contains multi-variate time-series sensor data for engines undergoing degradation. Each engine runs until failure, providing a rich dataset for RUL prediction. Each dataset in the Data folder is a separate time series adhering to different fault types. For this project, only the FD001 data has been taken into consideration.
+
 
 Key dataset attributes:
 
