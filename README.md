@@ -39,13 +39,13 @@ Engine ID: Identifies unique engines in the dataset.
 
 ## 📈 Results
 
-- MSE: 240.83
+- MSE: 247.66
   
-- RMSE: 15.52
+- RMSE: 15.73
 
-- MAE: 11.72
+- MAE: 12.09
   
-- R² Score: 0.86
+- R² Score: 0.85
 
 ## 📂 Repository Structure
 
@@ -62,4 +62,6 @@ Engine ID: Identifies unique engines in the dataset.
 - Real-time data processing and prediction systems can be investigated with extended visualization of the KPIs through a web app for real time usage.
   
 - Expand interpretability with comparative analysis of features across multiple engines.
+
+- More engineered features can be explored.
 
