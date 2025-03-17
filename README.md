@@ -31,11 +31,6 @@ Engine ID: Identifies unique engines in the dataset.
     - Mean Absolute Error (MAE)
     - R² Score
 
-## 🛠️ Tools & Technologies
-
-- Programming Language: Python
-  
-- Development Environment: Jupyter Notebook
 
 ## 📈 Results
 
